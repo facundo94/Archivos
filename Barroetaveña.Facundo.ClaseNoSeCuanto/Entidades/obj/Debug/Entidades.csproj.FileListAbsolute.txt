@@ -1,0 +1,10 @@
+D:\Mis Documentos\Visual Studio 2012\Projects\Barroetaveña.Facundo.ClaseNoSeCuanto\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Visual Studio 2012\Projects\Barroetaveña.Facundo.ClaseNoSeCuanto\Entidades\bin\Debug\Entidades.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\Barroetaveña.Facundo.ClaseNoSeCuanto\Entidades\bin\Debug\Entidades.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\Barroetaveña.Facundo.ClaseNoSeCuanto\Entidades\obj\Debug\Entidades.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\Barroetaveña.Facundo.ClaseNoSeCuanto\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Facu\Desktop\Barroetaveña.Facundo.ClaseNoSeCuanto\Entidades\bin\Debug\Entidades.dll
+C:\Users\Facu\Desktop\Barroetaveña.Facundo.ClaseNoSeCuanto\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Facu\Desktop\Barroetaveña.Facundo.ClaseNoSeCuanto\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Facu\Desktop\Barroetaveña.Facundo.ClaseNoSeCuanto\Entidades\obj\Debug\Entidades.dll
+C:\Users\Facu\Desktop\Barroetaveña.Facundo.ClaseNoSeCuanto\Entidades\obj\Debug\Entidades.pdb

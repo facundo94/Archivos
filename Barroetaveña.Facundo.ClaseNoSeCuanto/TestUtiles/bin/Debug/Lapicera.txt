@@ -1,0 +1,5 @@
+Marca: bic
+Precio: 2
+Color: Red
+Trazo: Grueso
+
