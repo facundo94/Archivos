@@ -17,7 +17,7 @@ namespace Entidades
         {
             try
             {
-                using (StreamWriter sw = new StreamWriter(AppDomain.CurrentDomain.BaseDirectory + "Lapicera.txt"))
+                using (StreamWriter sw = new StreamWriter(path))
                 {
                     sw.WriteLine(s.ToString());
                 }
@@ -33,7 +33,7 @@ namespace Entidades
         {
             try
             {
-                using (StreamReader sr = new StreamReader(AppDomain.CurrentDomain.BaseDirectory + "Lapicera.txt"))
+                using (StreamReader sr = new StreamReader(path))
                 {
                     return sr.ReadToEnd();
                 }

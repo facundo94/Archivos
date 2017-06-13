@@ -128,7 +128,6 @@ namespace Entidades
 
         public bool DeSerializarBin(string path)
         {
-
             BinaryFormatter bf = new BinaryFormatter();
             Lapicera l;
             try

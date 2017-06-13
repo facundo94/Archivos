@@ -6,9 +6,13 @@ using System.Threading.Tasks;
 
 namespace Entidades
 {
+    [Serializable]
     public class Goma : Utiles
     {
         protected bool _soloLapiz;
+
+        public Goma()
+        { }
 
         public Goma(bool soloLapiz, string marca, double precio)
             :base(marca, precio)
@@ -28,11 +32,17 @@ namespace Entidades
             set { this._precio = value; }
         }
 
+        public bool SoloLapiz
+        {
+            get { return this._soloLapiz; }
+            set { this._soloLapiz = value; }
+        }
+
         protected override string UtilesToString()
         {
             StringBuilder sb = new StringBuilder();
 
-            sb.AppendLine(base.UtilesToString());
+            sb.Append(base.UtilesToString());
             sb.Append("Solo lapiz? ");
             sb.AppendLine(this._soloLapiz.ToString());
 

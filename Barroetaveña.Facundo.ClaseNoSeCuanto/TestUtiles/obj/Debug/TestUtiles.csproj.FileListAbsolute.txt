@@ -14,3 +14,11 @@ C:\Users\Facu\Desktop\Barroetaveña.Facundo.ClaseNoSeCuanto\TestUtiles\bin\Debug
 C:\Users\Facu\Desktop\Barroetaveña.Facundo.ClaseNoSeCuanto\TestUtiles\bin\Debug\Entidades.dll
 C:\Users\Facu\Desktop\Barroetaveña.Facundo.ClaseNoSeCuanto\TestUtiles\bin\Debug\Entidades.pdb
 C:\Users\Facu\Desktop\Barroetaveña.Facundo.ClaseNoSeCuanto\TestUtiles\obj\Debug\TestUtiles.csprojResolveAssemblyReference.cache
+C:\Users\Facu\Documents\GitHub\Archivos\Barroetaveña.Facundo.ClaseNoSeCuanto\TestUtiles\bin\Debug\TestUtiles.exe.config
+C:\Users\Facu\Documents\GitHub\Archivos\Barroetaveña.Facundo.ClaseNoSeCuanto\TestUtiles\obj\Debug\TestUtiles.exe
+C:\Users\Facu\Documents\GitHub\Archivos\Barroetaveña.Facundo.ClaseNoSeCuanto\TestUtiles\obj\Debug\TestUtiles.pdb
+C:\Users\Facu\Documents\GitHub\Archivos\Barroetaveña.Facundo.ClaseNoSeCuanto\TestUtiles\bin\Debug\TestUtiles.exe
+C:\Users\Facu\Documents\GitHub\Archivos\Barroetaveña.Facundo.ClaseNoSeCuanto\TestUtiles\bin\Debug\TestUtiles.pdb
+C:\Users\Facu\Documents\GitHub\Archivos\Barroetaveña.Facundo.ClaseNoSeCuanto\TestUtiles\bin\Debug\Entidades.dll
+C:\Users\Facu\Documents\GitHub\Archivos\Barroetaveña.Facundo.ClaseNoSeCuanto\TestUtiles\bin\Debug\Entidades.pdb
+C:\Users\Facu\Documents\GitHub\Archivos\Barroetaveña.Facundo.ClaseNoSeCuanto\TestUtiles\obj\Debug\TestUtiles.csprojResolveAssemblyReference.cache

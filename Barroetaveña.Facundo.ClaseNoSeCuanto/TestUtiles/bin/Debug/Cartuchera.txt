@@ -1,0 +1,27 @@
+Marca: Nose
+Capacidad: 4
+
+Producto: Lapicera
+Marca: bic
+Precio: 5
+Color: Black
+Trazo: fino
+
+Producto: Lapicera
+Marca: bic
+Precio: 4
+Color: Blue
+Trazo: fino
+
+Producto: Lapicera
+Marca: bic
+Precio: 2
+Color: Red
+Trazo: Grueso
+
+Producto: Goma
+Marca: Mapped
+Precio: 2
+Solo lapiz? True
+
+

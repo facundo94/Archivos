@@ -8,3 +8,8 @@ C:\Users\Facu\Desktop\Barroetaveña.Facundo.ClaseNoSeCuanto\Entidades\bin\Debug\
 C:\Users\Facu\Desktop\Barroetaveña.Facundo.ClaseNoSeCuanto\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
 C:\Users\Facu\Desktop\Barroetaveña.Facundo.ClaseNoSeCuanto\Entidades\obj\Debug\Entidades.dll
 C:\Users\Facu\Desktop\Barroetaveña.Facundo.ClaseNoSeCuanto\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Facu\Documents\GitHub\Archivos\Barroetaveña.Facundo.ClaseNoSeCuanto\Entidades\bin\Debug\Entidades.dll
+C:\Users\Facu\Documents\GitHub\Archivos\Barroetaveña.Facundo.ClaseNoSeCuanto\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Facu\Documents\GitHub\Archivos\Barroetaveña.Facundo.ClaseNoSeCuanto\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Facu\Documents\GitHub\Archivos\Barroetaveña.Facundo.ClaseNoSeCuanto\Entidades\obj\Debug\Entidades.dll
+C:\Users\Facu\Documents\GitHub\Archivos\Barroetaveña.Facundo.ClaseNoSeCuanto\Entidades\obj\Debug\Entidades.pdb

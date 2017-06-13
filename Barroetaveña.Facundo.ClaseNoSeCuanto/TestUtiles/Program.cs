@@ -43,7 +43,8 @@ namespace TestUtiles
 
             Console.WriteLine("Cartuchera:");
             Console.Write(c.ToString());
-            Console.WriteLine("<----------------------------------------------------------->");
+            Console.ReadLine();
+            Console.Clear();
 
             //Por lo que entendi, para que los datos se guarden bien en un archivo,
             //la clase que vas a guardar tiene que tener al menos una manera 'publica' de obtener los datos.
@@ -79,6 +80,36 @@ namespace TestUtiles
             //Leo Lapicera desde txt
             Console.WriteLine("Lapicera leida del archivo txt");
             Console.WriteLine(ExtendISerializable.DeSerializarTxt("Lapicera.txt"));
+            Console.ReadLine();
+            Console.Clear();
+
+            //Serializo Cartuchera a xml
+            c.SerializarXml("Cartuchera.xml");
+
+            Cartuchera<Utiles> cv = new Cartuchera<Utiles>();
+            //Leo Cartuchera desde xml
+            cv.DeSerializarXml("Cartuchera.xml");
+            Console.WriteLine("Cartuchera leida dese xml");
+            Console.Write(cv.ToString());
+            Console.ReadLine();
+            Console.Clear();
+
+            //Serializo Cartuchera a xml
+            c.SerializarBin("Cartuchera.bin");
+
+            Cartuchera<Utiles> cv2 = new Cartuchera<Utiles>();
+            //Leo Cartuchera desde xml
+            cv2.DeSerializarBin("Cartuchera.bin");
+            Console.WriteLine("Cartuchera leida desde bin");
+            Console.Write(cv2.ToString());
+            Console.ReadLine();
+            Console.Clear();
+
+            //Serializo Cartuchera a txt
+            ExtendISerializable.SerializarTxt(c, "Cartuchera.txt");
+            //Leo Cartuchera desde txt
+            Console.WriteLine("Cartuchera leida del archivo txt");
+            Console.WriteLine(ExtendISerializable.DeSerializarTxt("Cartuchera.txt"));
 
             Console.ReadLine();
 
